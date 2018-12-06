@@ -1,6 +1,6 @@
 {
   "name": "org.cflat-inc.homey-app",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Homey-Dev sample app",
   "main": "app.js",
   "scripts": {
@@ -24,7 +24,7 @@
     "homey",
     "app"
   ],
-  "author": "Chris Gross <cghome@gmx.net>",
+  "author": "Chris Gross <cghome@cflat-inc.org>",
   "license": "GPL-3.0",
   "repository": {
     "type": "git",
